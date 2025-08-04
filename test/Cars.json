@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "title": "Tesla Model S",
+        "imageName": "car1"
+    },
+    {
+        "id": 2,
+        "title": "Ford Mustang",
+        "imageName": "car2"
+    },
+    {
+        "id": 3,
+        "title": "Chevy Camaro",
+        "imageName": "car3"
+    }
+]
