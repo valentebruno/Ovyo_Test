@@ -9,6 +9,8 @@ struct ContentView: View {
         VStack(alignment: .leading) {
             Text("Car Carousel")
                 .font(.title)
+                .bold()
+                .foregroundColor(.orange)
                 .padding(.horizontal)
 
             CarouselView(cars: viewModel.cars, selectedCar: $selectedCar, isShowingDetail: $isShowingDetail)
