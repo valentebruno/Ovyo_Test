@@ -8,13 +8,8 @@ A simple SwiftUI app showcasing a **horizontal car carousel** with **tap-to-view
 - Clean MVVM architecture
 - Simple data model using `@Published` and `@StateObject`
 
-## 📸 Preview
 
-| Carousel View | Detail Sheet |
-|---------------|--------------|
-| ![carousel](preview_carousel.png) | ![details](preview_details.png) |
-
-## 🧱 Architecture
+##  Architecture
 - **Model**: `Car` – conforms to `Identifiable` and `Codable`
 - **ViewModel**: `CarViewModel` – loads and manages car data
 - **Views**: `ContentView`, `CarouselView`, `CarDetailView`
