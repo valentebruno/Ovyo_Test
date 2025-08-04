@@ -1,6 +1,7 @@
 {
   "images" : [
     {
+      "filename" : "Captura de Tela 2025-08-04 às 18.38.42 2.png",
       "idiom" : "universal",
       "platform" : "ios",
       "size" : "1024x1024"
@@ -12,6 +13,7 @@
           "value" : "dark"
         }
       ],
+      "filename" : "Captura de Tela 2025-08-04 às 18.38.42.png",
       "idiom" : "universal",
       "platform" : "ios",
       "size" : "1024x1024"
@@ -23,6 +25,7 @@
           "value" : "tinted"
         }
       ],
+      "filename" : "Captura de Tela 2025-08-04 às 18.38.42 1.png",
       "idiom" : "universal",
       "platform" : "ios",
       "size" : "1024x1024"
